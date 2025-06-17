@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Core/Src/uart.c:21:6:UART1_Init	1
+../Core/Src/uart.c:44:6:UART1_SendChar	2
+../Core/Src/uart.c:50:6:UART1_SendString	2
+../Core/Src/uart.c:55:6:UART1_SendRawBytes	3
+../Core/Src/uart.c:63:6:UART1_ReceiveChar	2
+../Core/Src/uart.c:69:6:USART1_IRQHandler	7

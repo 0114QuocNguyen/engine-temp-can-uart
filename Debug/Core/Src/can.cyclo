@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	2
+../Core/Src/can.c:14:6:CAN_GPIO_Init	1
+../Core/Src/can.c:30:6:CAN_Config	3
+../Core/Src/can.c:63:6:CAN_Send_STD	2
+../Core/Src/can.c:77:6:CAN_Send_EXT	2
+../Core/Src/can.c:92:9:CAN_Receive	7
+../Core/Src/can.c:119:6:USB_LP_CAN1_RX0_IRQHandler	7
